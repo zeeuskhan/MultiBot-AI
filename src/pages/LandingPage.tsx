@@ -27,12 +27,12 @@ export default function LandingPage() {
             </div>
             
             <h1 className="text-6xl md:text-8xl font-display font-extrabold mb-6 tracking-tight leading-[1.1]">
-              The Future of AI <br />
-              <span className="text-gradient saffron-gradient bg-clip-text">Unified for You.</span>
+              The Best Multi-AI <br />
+              <span className="text-gradient saffron-gradient bg-clip-text">Chatbot Aggregator.</span>
             </h1>
             
             <p className="text-xl md:text-2xl text-muted-foreground max-w-3xl mx-auto mb-12 leading-relaxed">
-              Access the world's most powerful AI models—ChatGPT, Claude, and Gemini—in a single, high-performance interface. Built for speed, comparison, and the Indian community.
+              Access the world's most powerful AI models—ChatGPT-5, Claude 3.5, and Gemini 2.5—in a single, high-performance interface. The ultimate free AI chat platform built for the Indian community.
             </p>
             
             <div className="flex flex-col sm:flex-row gap-6 justify-center items-center">

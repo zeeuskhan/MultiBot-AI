@@ -12,10 +12,10 @@ interface SEOProps {
 
 export default function SEO({
   title = "AI Utsav | The Ultimate Multi-AI Chat Aggregator",
-  description = "Access ChatGPT-5, Claude 3.5, and Gemini 2.5 in one unified, free interface. Built for the Indian AI community with Hindi support.",
-  keywords = "AI, ChatGPT, Claude, Gemini, India, AI Chat, Free AI, Multi-AI, Hindi AI, AI Utsav",
+  description = "Access ChatGPT-5, Claude 3.5, and Gemini 2.5 in one unified, free interface. The best multi-AI chatbot aggregator for Indian users with Hindi support.",
+  keywords = "Multi-AI Chatbot, ChatGPT-5 India, Claude 3.5, Gemini 2.5, AI Aggregator, Free AI Chat, Hindi AI Chatbot, Best AI India, Side-by-side AI comparison, AI Utsav, multibotai",
   image = "https://picsum.photos/seed/aiutsav/1200/630",
-  url = "https://ai-utsav.com",
+  url = "https://multibotai.vercel.app/",
   type = "website"
 }: SEOProps) {
   const siteTitle = title.includes("AI Utsav") ? title : `${title} | AI Utsav`;
